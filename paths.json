@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/lennox:/",
+    "/content/lennox/:/",
     "/content/lennox/configuration:/.helix/config.json"
   ]
 }
