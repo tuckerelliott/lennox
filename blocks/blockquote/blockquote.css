@@ -1,20 +1,15 @@
 blockquote {
-  background-color: #f8f9fa;
-  border-left: 10px solid #ccc;
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
-  quotes: "\201C""\201D""\2018""\2019";
+  background-color: #000000;
+  color: #FFFFFF;
+  padding: 5rem 25rem;
+  text-align: center;
+  margin: 0px -150px;
 }
 
-blockquote::before {
-  color: #ccc;
-  content: open-quote;
-  font-size: 4em;
-  line-height: 0.1em;
-  margin-right: 0.25em;
-  vertical-align: -0.4em;
-}
-
-blockquote p {
+blockquote strong {
   display: inline;
+  font-family: '__Barlow_Semi_Condensed_427775';
+  font-size: 3.125rem;
+  max-width: 900px;
+  line-height: 1.2;
 }
