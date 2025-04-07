@@ -79,7 +79,7 @@
   :root {
     --heading-font-size-xxl: 3.125rem;
     --heading-font-size-xl: 2.625rem;
-    --heading-font-size-l: 36px;
+    --heading-font-size-l: 1.5rem;
     --heading-font-size-m: 30px;
     --heading-font-size-s: 1.75rem;
     --heading-font-size-xs: .875rem;
@@ -121,7 +121,7 @@ h6 {
   font-family: var(--body-font-family);
   font-weight: 600;
   line-height: 1.25;
-  margin-top: 1em;
+  margin-top: .5rem;
   margin-bottom: 0.5em;
   scroll-margin: calc(var(--nav-height) + 1em);
 }
