@@ -16,7 +16,7 @@
 }
 
 .teaser > div:first-child > div {
-    height: 40pc;
+ /*   height: 40pc; */
     max-height: 40pc;
     width: 100%;
 }
