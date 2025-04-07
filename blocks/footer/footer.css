@@ -1,7 +1,7 @@
 footer {
   padding: 2rem;
   background-color: var(--light-color);
-  font-size: var(--body-font-size-s);
+  font-size: .75rem;
 }
 
 footer .footer {
@@ -11,4 +11,17 @@ footer .footer {
 
 footer .footer p {
   margin: 0;
+}
+
+.footer a.button:any-link {
+  all: unset;
+}
+
+footer .footer h3 {
+  font-size: 1rem;
+}
+
+footer .footer img {
+  width: 150px;
+  height: 44px;
 }
