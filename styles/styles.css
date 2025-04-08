@@ -21,6 +21,15 @@
 }
 
 @font-face {
+  font-family: '__Open_Sans_fdadf4';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('https://little-forest-58aa.david8603.workers.dev/?url=https://www.lennox.com/commercial/_next/static/media/3d9ea938b6afa941-s.p.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
   font-family: '__Barlow_Semi_Condensed_427775';
   font-style: normal;
   font-weight: 400;
@@ -243,7 +252,7 @@ main .section {
 
 @media (width >= 600px) {
   main .section {
-    padding: 64px 32px;
+    padding: 32px 32px;
   }
 }
 

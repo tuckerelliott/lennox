@@ -9,7 +9,7 @@ main .hero-container {
 .hero {
   position: relative;
   padding: 32px;
-  min-height: 400px;
+  min-height: 600px;
 }
 
 .hero h1 {
@@ -37,4 +37,8 @@ main .hero-container {
   max-width: 800px;
   margin-left: 100px;
   color: #FFFFFF;
+}
+
+body > main > div.section.hero-container > div > div > div:nth-child(2) {
+  padding-top: 200px;
 }
